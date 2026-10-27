@@ -1,0 +1,3 @@
+<FilesMatch "^(lib|schemas)\.php$">
+  Require all denied
+</FilesMatch>

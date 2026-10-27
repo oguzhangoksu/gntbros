@@ -1,0 +1,99 @@
+{
+    "intro": {
+        "title": {
+            "tr": "Galeri",
+            "en": "Gallery"
+        },
+        "text": {
+            "tr": "Atölyemizden, makinelerimizden ve işlediğimiz parçalardan kareler.",
+            "en": "Shots from our workshop, our machines and the parts we work on."
+        }
+    },
+    "items": [
+        {
+            "active": true,
+            "image": "uploads/taslama.jpg",
+            "caption": {
+                "tr": "Taşlama atölyesi",
+                "en": "Grinding workshop"
+            }
+        },
+        {
+            "active": true,
+            "image": "uploads/fotot.png",
+            "caption": {
+                "tr": "",
+                "en": ""
+            }
+        },
+        {
+            "active": true,
+            "image": "uploads/fotot2.png",
+            "caption": {
+                "tr": "Delik taşlama",
+                "en": "Internal grinding"
+            }
+        },
+        {
+            "active": true,
+            "image": "uploads/fotot3.png",
+            "caption": {
+                "tr": "",
+                "en": ""
+            }
+        },
+        {
+            "active": true,
+            "image": "uploads/fotot4.png",
+            "caption": {
+                "tr": "Puntasız taşlama",
+                "en": "Centerless grinding"
+            }
+        },
+        {
+            "active": true,
+            "image": "uploads/ana1.jpg",
+            "caption": {
+                "tr": "",
+                "en": ""
+            }
+        },
+        {
+            "active": true,
+            "image": "uploads/ana2.jpg",
+            "caption": {
+                "tr": "",
+                "en": ""
+            }
+        },
+        {
+            "active": true,
+            "image": "uploads/ana3.jpg",
+            "caption": {
+                "tr": "",
+                "en": ""
+            }
+        },
+        {
+            "active": true,
+            "image": "uploads/ana4.jpg",
+            "caption": {
+                "tr": "",
+                "en": ""
+            }
+        },
+        {
+            "active": true,
+            "image": "uploads/117.webp",
+            "caption": {
+                "tr": "",
+                "en": ""
+            }
+        }
+    ],
+    "references_title": {
+        "tr": "Referanslarımız",
+        "en": "References"
+    },
+    "references": []
+}

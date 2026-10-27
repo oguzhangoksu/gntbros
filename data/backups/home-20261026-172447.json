@@ -1,0 +1,276 @@
+{
+    "hero": {
+        "title": {
+            "tr": "Broş imalatı ve taşlamada yüksek hassasiyet",
+            "en": "High precision in broach manufacturing and grinding"
+        },
+        "text": {
+            "tr": "Broş imalatı, broş bileme ve hassas taşlama işlerinizi Bursa'daki atölyemizde, ölçüsünü tutturarak ve zamanında teslim ediyoruz.",
+            "en": "We manufacture and sharpen broaches and handle your precision grinding work in our Bursa workshop – on size and on time."
+        },
+        "button": {
+            "tr": "Teklif isteyin",
+            "en": "Request a quote"
+        },
+        "button2": {
+            "tr": "Uygulamalarımızı görün",
+            "en": "See our applications"
+        },
+        "video": "uploads/video.mp4",
+        "poster": "uploads/slider1.webp",
+        "dim_x": "Ø 3 – 650 mm",
+        "dim_y": "1100 mm",
+        "dim_caption": {
+            "tr": "Delik taşlama kapasitemiz: 3 – 650 mm çap, 1100 mm boy",
+            "en": "Internal grinding capacity: 3 – 650 mm diameter, 1100 mm length"
+        }
+    },
+    "services": {
+        "title": {
+            "tr": "Ne yapıyoruz",
+            "en": "What we do"
+        },
+        "items": [
+            {
+                "title": {
+                    "tr": "Broş imalatı",
+                    "en": "Broach manufacturing"
+                },
+                "text": {
+                    "tr": "Farklı sektörlere özel, yüksek hassasiyetli ve dayanıklı broş takımları üretiyoruz.",
+                    "en": "We manufacture durable, high-precision broaching tools tailored to different industries."
+                },
+                "image": "uploads/service_icon_1.png"
+            },
+            {
+                "title": {
+                    "tr": "Broş bileme ve taşlama",
+                    "en": "Broach sharpening and grinding"
+                },
+                "text": {
+                    "tr": "Bileme ve taşlama işlemlerinde ölçüsel doğruluğu koruyor, takım ömrünü uzatıyoruz.",
+                    "en": "Our sharpening and grinding keeps dimensional accuracy and extends tool life."
+                },
+                "image": "uploads/service_icon_4.png"
+            },
+            {
+                "title": {
+                    "tr": "Kalıp ve makine tasarımı",
+                    "en": "Die and machine design"
+                },
+                "text": {
+                    "tr": "Üretim süreçlerinize uygun kalıp ve makine tasarımlarıyla verimliliği artırıyoruz.",
+                    "en": "We design dies and machines that fit your production and raise efficiency."
+                },
+                "image": "uploads/service_icon_6.png"
+            }
+        ]
+    },
+    "about": {
+        "title": {
+            "tr": "Hassasiyet ve kalitede sınır tanımıyoruz",
+            "en": "No compromise on precision and quality"
+        },
+        "text": {
+            "tr": "Broş imalatı, bileme ve taşlama alanlarında edindiğimiz tecrübeyi kalıp ve makine tasarımına da taşıyor; yüksek hassasiyetli ve güvenilir çözümler sunuyoruz.",
+            "en": "We bring our experience in broach manufacturing, sharpening and grinding to die and machine design, delivering precise and reliable solutions."
+        },
+        "video": "uploads/silindir.mp4",
+        "points": [
+            {
+                "title": {
+                    "tr": "Broş imalatı ve bileme",
+                    "en": "Broach manufacturing and sharpening"
+                },
+                "text": {
+                    "tr": "Ölçü hassasiyeti yüksek, uzun ömürlü broşlar ve bileme hizmeti.",
+                    "en": "Long-lasting broaches with tight tolerances, and sharpening service."
+                }
+            },
+            {
+                "title": {
+                    "tr": "Taşlama ve makine tasarımı",
+                    "en": "Grinding and machine design"
+                },
+                "text": {
+                    "tr": "Üretim süreçlerinizi iyileştiren taşlama işlemleri ve mühendislik çözümleri.",
+                    "en": "Grinding operations and engineering solutions that improve your production."
+                }
+            }
+        ]
+    },
+    "grinding": {
+        "title": {
+            "tr": "Taşlama kapasitemiz",
+            "en": "Our grinding capacity"
+        },
+        "text": {
+            "tr": "Dört taşlama yöntemi, tek atölye. Ölçü aralığınız aşağıdaki sınırların içindeyse işinizi alabiliriz.",
+            "en": "Four grinding methods under one roof. If your part fits within these limits, we can take the job."
+        },
+        "items": [
+            {
+                "title": {
+                    "tr": "Silindir taşlama",
+                    "en": "Cylindrical grinding"
+                },
+                "text": {
+                    "tr": "Her türlü silindir ve açılı malzemenin çap ve alın taşlaması; dış yüzey kalitesini iyileştirir.",
+                    "en": "Diameter and face grinding of cylindrical and angled parts to improve outer surface quality."
+                },
+                "capacity": {
+                    "tr": "Çap ve alın taşlama",
+                    "en": "Diameter and face grinding"
+                },
+                "image": "uploads/ana1.jpg"
+            },
+            {
+                "title": {
+                    "tr": "Delik taşlama",
+                    "en": "Internal grinding"
+                },
+                "text": {
+                    "tr": "Delik ve alın taşlama; otomatik paso ile seri ya da manuel. Konik taşlama da yapılır.",
+                    "en": "Bore and face grinding with automatic infeed, in series or manually. Taper grinding available."
+                },
+                "capacity": {
+                    "tr": "Ø 3 – 650 mm, 1100 mm boy",
+                    "en": "Ø 3 – 650 mm, 1100 mm length"
+                },
+                "image": "uploads/ana2.jpg"
+            },
+            {
+                "title": {
+                    "tr": "Satıh taşlama",
+                    "en": "Surface grinding"
+                },
+                "text": {
+                    "tr": "Freze ve planya sonrası ısıl işlem görmüş malzemelerde çarpıklığı giderir, yüzey kalitesini sağlar.",
+                    "en": "Removes distortion from heat-treated parts after milling and planing, and delivers surface quality."
+                },
+                "capacity": {
+                    "tr": "Isıl işlem sonrası düzlem",
+                    "en": "Flatness after heat treatment"
+                },
+                "image": "uploads/ana3.jpg"
+            },
+            {
+                "title": {
+                    "tr": "Puntasız taşlama",
+                    "en": "Centerless grinding"
+                },
+                "text": {
+                    "tr": "Otomotiv, geçme ve takım üretiminde; geçme ve dalma taşlama.",
+                    "en": "Through-feed and plunge grinding for automotive, fit and tooling parts."
+                },
+                "capacity": {
+                    "tr": "Ø 1 – 60 mm, 1000 mm boy",
+                    "en": "Ø 1 – 60 mm, 1000 mm length"
+                },
+                "image": "uploads/ana4.jpg"
+            }
+        ]
+    },
+    "sectors": {
+        "title": {
+            "tr": "Çalıştığımız sektörlerden bazıları",
+            "en": "Some of the industries we serve"
+        },
+        "video": "uploads/video-4.mp4",
+        "items": [
+            {
+                "name": {
+                    "tr": "Otomotiv sanayi",
+                    "en": "Automotive"
+                }
+            },
+            {
+                "name": {
+                    "tr": "Otomotiv yedek parça sanayi",
+                    "en": "Automotive spare parts"
+                }
+            },
+            {
+                "name": {
+                    "tr": "Savunma sanayi",
+                    "en": "Defense"
+                }
+            },
+            {
+                "name": {
+                    "tr": "Havacılık ve uzay sanayi",
+                    "en": "Aerospace"
+                }
+            },
+            {
+                "name": {
+                    "tr": "Makine imalat sanayi",
+                    "en": "Machine manufacturing"
+                }
+            },
+            {
+                "name": {
+                    "tr": "Gemi makineleri imalat sanayi",
+                    "en": "Marine machinery"
+                }
+            },
+            {
+                "name": {
+                    "tr": "İş makineleri sanayi",
+                    "en": "Construction machinery"
+                }
+            },
+            {
+                "name": {
+                    "tr": "Takım tezgahları imalat sanayi",
+                    "en": "Machine tools"
+                }
+            },
+            {
+                "name": {
+                    "tr": "Beyaz eşya ve yan sanayi",
+                    "en": "White goods and suppliers"
+                }
+            },
+            {
+                "name": {
+                    "tr": "El aletleri sanayi",
+                    "en": "Hand tools"
+                }
+            },
+            {
+                "name": {
+                    "tr": "Kapı kilit sistemleri",
+                    "en": "Door lock systems"
+                }
+            },
+            {
+                "name": {
+                    "tr": "Dişli redüktör imalatçıları",
+                    "en": "Gear reducer manufacturers"
+                }
+            },
+            {
+                "name": {
+                    "tr": "Tarım makineleri imalat sanayi",
+                    "en": "Agricultural machinery"
+                }
+            }
+        ]
+    },
+    "cta": {
+        "title": {
+            "tr": "Hassasiyet ve kalite önceliğimiz",
+            "en": "Precision and quality come first"
+        },
+        "text": {
+            "tr": "İhtiyacınızı ayrıntılı analiz ediyor, deneyimli ekibimiz ve modern makinelerimizle en uygun çözümü sunuyoruz. Parça resminizi ya da ölçülerinizi gönderin, size dönelim.",
+            "en": "We analyse your needs in detail and offer the best solution with our experienced team and modern machines. Send us your drawing or dimensions and we will get back to you."
+        },
+        "button": {
+            "tr": "Parça bilgisi gönderin",
+            "en": "Send part details"
+        },
+        "image": "uploads/Yeni.png"
+    }
+}

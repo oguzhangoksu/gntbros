@@ -1,0 +1,136 @@
+{
+    "site": {
+        "name": "GNT Broş",
+        "legal_name": "GENETİK TAŞLAMA KALIP MAKİNA TASARIM İTH. İHR. SAN. VE TİC. LTD. ŞTİ.",
+        "tagline": {
+            "tr": "Broş imalatı, bileme ve hassas taşlama",
+            "en": "Broach manufacturing, sharpening and precision grinding"
+        },
+        "logo": "",
+        "favicon": "uploads/favicon-32x32.png",
+        "footer_text": {
+            "tr": "Bursa'da broş imalatı, broş bileme ve silindirik, delik, satıh ve puntasız taşlama hizmeti veriyoruz.",
+            "en": "Based in Bursa, we manufacture and sharpen broaches and provide cylindrical, internal, surface and centerless grinding."
+        }
+    },
+    "contact": {
+        "phones": [
+            {
+                "number": "+90 533 437 37 56"
+            },
+            {
+                "number": "+90 545 592 40 41"
+            }
+        ],
+        "email": "gnttaslama@gmail.com",
+        "address": {
+            "tr": "Üçevler Mah. 77. Sk. No: 2/F\nNilüfer / BURSA",
+            "en": "Üçevler Mah. 77. Sk. No: 2/F\nNilüfer / Bursa, Türkiye"
+        },
+        "hours": {
+            "tr": "",
+            "en": ""
+        },
+        "whatsapp": "+90 533 437 37 56",
+        "map_embed": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2896.5350467701674!2d28.936722076000382!3d40.202086971474905!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDDCsDEyJzA3LjUiTiAyOMKwNTYnMjEuNSJF!5e1!3m2!1str!2str!4v1775460634938!5m2!1str!2str"
+    },
+    "social": {
+        "instagram": "",
+        "linkedin": "",
+        "youtube": "",
+        "facebook": ""
+    },
+    "seo": {
+        "home": {
+            "title": {
+                "tr": "GNT Broş | Broş İmalatı, Bileme ve Hassas Taşlama – Bursa",
+                "en": "GNT Broş | Broach Manufacturing, Sharpening and Precision Grinding – Bursa"
+            },
+            "description": {
+                "tr": "Bursa Nilüfer'de broş imalatı, broş bileme, silindirik, delik, satıh ve puntasız taşlama. Mikron hassasiyetinde endüstriyel çözümler.",
+                "en": "Broach manufacturing, broach sharpening, cylindrical, internal, surface and centerless grinding in Bursa, Türkiye."
+            }
+        },
+        "about": {
+            "title": {
+                "tr": "Hakkımızda | GNT Broş",
+                "en": "About us | GNT Broş"
+            },
+            "description": {
+                "tr": "GNT Broş; broş imalatı, bileme ve hassas taşlama alanlarında Bursa'da hizmet veren Genetik Taşlama Kalıp Makina markasıdır.",
+                "en": "GNT Broş is the broaching and precision grinding brand of Genetik Taşlama Kalıp Makina in Bursa."
+            }
+        },
+        "vision": {
+            "title": {
+                "tr": "Vizyon & Misyon | GNT Broş",
+                "en": "Vision & Mission | GNT Broş"
+            },
+            "description": {
+                "tr": "Vizyonumuz, misyonumuz ve silindirik taşlama hakkında bilgiler.",
+                "en": "Our vision, mission and an introduction to cylindrical grinding."
+            }
+        },
+        "policy": {
+            "title": {
+                "tr": "Kuruluş Politikamız | GNT Broş",
+                "en": "Our Policy | GNT Broş"
+            },
+            "description": {
+                "tr": "Kalite, zamanında teslimat ve ölçü hassasiyeti üzerine kurulu çalışma ilkelerimiz.",
+                "en": "Our working principles built on quality, on-time delivery and dimensional accuracy."
+            }
+        },
+        "applications": {
+            "title": {
+                "tr": "Uygulamalarımız | Silindir, Delik, Satıh ve Puntasız Taşlama",
+                "en": "Applications | Cylindrical, Internal, Surface and Centerless Grinding"
+            },
+            "description": {
+                "tr": "Silindir, delik, satıh ve puntasız taşlama kapasitelerimiz ve uygulama örnekleri.",
+                "en": "Our cylindrical, internal, surface and centerless grinding capacities and examples."
+            }
+        },
+        "products": {
+            "title": {
+                "tr": "Ürünlerimiz | GNT Broş",
+                "en": "Products | GNT Broş"
+            },
+            "description": {
+                "tr": "Broş takımları ve hassas taşlanmış makine parçaları.",
+                "en": "Broaching tools and precision ground machine parts."
+            }
+        },
+        "gallery": {
+            "title": {
+                "tr": "Galeri | GNT Broş",
+                "en": "Gallery | GNT Broş"
+            },
+            "description": {
+                "tr": "Atölyemizden ve işlerimizden fotoğraflar.",
+                "en": "Photos from our workshop and our work."
+            }
+        },
+        "contact": {
+            "title": {
+                "tr": "İletişim | GNT Broş",
+                "en": "Contact | GNT Broş"
+            },
+            "description": {
+                "tr": "Adres, telefon ve iletişim formu. Üçevler Mah. Nilüfer / Bursa.",
+                "en": "Address, phone and contact form. Nilüfer / Bursa, Türkiye."
+            }
+        }
+    },
+    "smtp": {
+        "enabled": false,
+        "to": "gnttaslama@gmail.com",
+        "host": "",
+        "port": 587,
+        "secure": "tls",
+        "user": "",
+        "pass": "",
+        "from": "",
+        "from_name": "GNT Broş Web"
+    }
+}

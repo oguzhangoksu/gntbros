@@ -1,0 +1,179 @@
+{
+    "intro": {
+        "title": {
+            "tr": "Ürünlerimiz",
+            "en": "Products"
+        },
+        "text": {
+            "tr": "Yüksek hassasiyetle işlenmiş, endüstriyel kullanıma uygun broş takımları ve özel makine parçaları üretiyoruz. Ölçü ve adet bilgisi için bizimle iletişime geçin.",
+            "en": "We produce broaching tools and special machine parts, precision machined for industrial use. Contact us with your dimensions and quantities."
+        }
+    },
+    "per_page": 1,
+    "categories": [
+        {
+            "active": true,
+            "name": {
+                "tr": "Broş takımları",
+                "en": "Broaching tools"
+            },
+            "slug": "bros-takimlari",
+            "text": {
+                "tr": "",
+                "en": ""
+            }
+        },
+        {
+            "active": true,
+            "name": {
+                "tr": "Hassas işlenmiş parçalar",
+                "en": "Precision machined parts"
+            },
+            "slug": "hassas-islenmis-parcalar",
+            "text": {
+                "tr": "",
+                "en": ""
+            }
+        }
+    ],
+    "items": [
+        {
+            "active": true,
+            "name": {
+                "tr": "Özel işlenmiş flanşlı parça",
+                "en": "Custom machined flanged part"
+            },
+            "slug": "ozel-islenmis-flansli-parca",
+            "category": "hassas-islenmis-parcalar",
+            "summary": {
+                "tr": "Yüksek tolerans gerektiren uygulamalar için hassas ölçülerle üretilmiş özel iş parçaları.",
+                "en": "Custom workpieces made to precise dimensions for high-tolerance applications."
+            },
+            "description": {
+                "tr": "Yüksek tolerans gerektiren uygulamalar için hassas ölçülerle üretilmiş özel iş parçaları.\n\nÖlçü, malzeme ve adet bilgisi için bizimle iletişime geçin.",
+                "en": "Custom workpieces made to precise dimensions for high-tolerance applications.\n\nContact us with dimensions, material and quantity."
+            },
+            "images": [
+                {
+                    "image": "uploads/service_icon_1.png"
+                }
+            ],
+            "specs": []
+        },
+        {
+            "active": true,
+            "name": {
+                "tr": "Mil ve şaft uygulamaları",
+                "en": "Shafts and spindles"
+            },
+            "slug": "mil-ve-saft-uygulamalari",
+            "category": "hassas-islenmis-parcalar",
+            "summary": {
+                "tr": "Taşlama ve bileme işlemleriyle yüksek yüzey kalitesi sağlanan mil çözümleri.",
+                "en": "Shafts finished by grinding for high surface quality."
+            },
+            "description": {
+                "tr": "Taşlama ve bileme işlemleriyle yüksek yüzey kalitesi sağlanan mil çözümleri.\n\nÖlçü, malzeme ve adet bilgisi için bizimle iletişime geçin.",
+                "en": "Shafts finished by grinding for high surface quality.\n\nContact us with dimensions, material and quantity."
+            },
+            "images": [
+                {
+                    "image": "uploads/service_icon_2.png"
+                }
+            ],
+            "specs": []
+        },
+        {
+            "active": true,
+            "name": {
+                "tr": "Flanş ve bağlantı elemanları",
+                "en": "Flanges and connecting parts"
+            },
+            "slug": "flans-ve-baglanti-elemanlari",
+            "category": "hassas-islenmis-parcalar",
+            "summary": {
+                "tr": "Endüstriyel makineler için ölçü hassasiyeti yüksek bağlantı parçaları.",
+                "en": "Connecting parts with tight tolerances for industrial machines."
+            },
+            "description": {
+                "tr": "Endüstriyel makineler için ölçü hassasiyeti yüksek bağlantı parçaları.\n\nÖlçü, malzeme ve adet bilgisi için bizimle iletişime geçin.",
+                "en": "Connecting parts with tight tolerances for industrial machines.\n\nContact us with dimensions, material and quantity."
+            },
+            "images": [
+                {
+                    "image": "uploads/service_icon_3.png"
+                }
+            ],
+            "specs": []
+        },
+        {
+            "active": true,
+            "name": {
+                "tr": "Hassas taşlanmış parçalar",
+                "en": "Precision ground parts"
+            },
+            "slug": "hassas-taslanmis-parcalar",
+            "category": "hassas-islenmis-parcalar",
+            "summary": {
+                "tr": "Dairesel ve yüzey taşlama işlemleriyle uzun ömürlü ve kaliteli parçalar.",
+                "en": "Durable, high-quality parts finished by cylindrical and surface grinding."
+            },
+            "description": {
+                "tr": "Dairesel ve yüzey taşlama işlemleriyle uzun ömürlü ve kaliteli parçalar.\n\nÖlçü, malzeme ve adet bilgisi için bizimle iletişime geçin.",
+                "en": "Durable, high-quality parts finished by cylindrical and surface grinding.\n\nContact us with dimensions, material and quantity."
+            },
+            "images": [
+                {
+                    "image": "uploads/service_icon_4.png"
+                }
+            ],
+            "specs": []
+        },
+        {
+            "active": true,
+            "name": {
+                "tr": "Özel seri üretim parçalar",
+                "en": "Custom series parts"
+            },
+            "slug": "ozel-seri-uretim-parcalar",
+            "category": "hassas-islenmis-parcalar",
+            "summary": {
+                "tr": "Müşteri taleplerine göre seri ve özel ölçülü parça imalatı.",
+                "en": "Series and custom-size parts made to customer requirements."
+            },
+            "description": {
+                "tr": "Müşteri taleplerine göre seri ve özel ölçülü parça imalatı.\n\nÖlçü, malzeme ve adet bilgisi için bizimle iletişime geçin.",
+                "en": "Series and custom-size parts made to customer requirements.\n\nContact us with dimensions, material and quantity."
+            },
+            "images": [
+                {
+                    "image": "uploads/service_icon_5.png"
+                }
+            ],
+            "specs": []
+        },
+        {
+            "active": true,
+            "name": {
+                "tr": "Makine ve kalıp parçaları",
+                "en": "Machine and die parts"
+            },
+            "slug": "makine-ve-kalip-parcalari",
+            "category": "hassas-islenmis-parcalar",
+            "summary": {
+                "tr": "Makine ve kalıp sistemlerine uygun, yüksek dayanımlı teknik parçalar.",
+                "en": "High-strength technical parts for machines and dies."
+            },
+            "description": {
+                "tr": "Makine ve kalıp sistemlerine uygun, yüksek dayanımlı teknik parçalar.\n\nÖlçü, malzeme ve adet bilgisi için bizimle iletişime geçin.",
+                "en": "High-strength technical parts for machines and dies.\n\nContact us with dimensions, material and quantity."
+            },
+            "images": [
+                {
+                    "image": "uploads/service_icon_6.png"
+                }
+            ],
+            "specs": []
+        }
+    ]
+}

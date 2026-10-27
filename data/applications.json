@@ -1,0 +1,78 @@
+{
+    "intro": {
+        "title": {
+            "tr": "Hassas taşlama uygulamaları",
+            "en": "Precision grinding applications"
+        },
+        "text": {
+            "tr": "Endüstriyel üretimin ihtiyaç duyduğu yüksek hassasiyetli taşlama işlerini modern makine parkurumuz ve deneyimli personelimizle yapıyoruz. Tüm işlerimizde ölçü hassasiyeti, yüzey kalitesi ve süreklilik önceliğimizdir.",
+            "en": "We carry out the high-precision grinding that industrial production needs, with our modern machine park and experienced staff. Dimensional accuracy, surface quality and consistency come first in every job."
+        }
+    },
+    "items": [
+        {
+            "active": true,
+            "title": {
+                "tr": "Silindir taşlama",
+                "en": "Cylindrical grinding"
+            },
+            "capacity": {
+                "tr": "Çap ve alın taşlama",
+                "en": "Diameter and face grinding"
+            },
+            "text": {
+                "tr": "Her türlü silindir ve açılı malzemenin çap ve alın taşlama işlemleri, dış yüzey kalitelerinin iyileştirilmesi amacıyla yapılmaktadır.\n\nÖzellikle yüksek hassasiyet gerektiren makine parçalarında ölçü toleranslarını koruyarak uzun ömürlü ve düzgün yüzeyler elde edilir.",
+                "en": "Diameter and face grinding of all cylindrical and angled parts is carried out to improve outer surface quality.\n\nOn machine parts that demand high precision, tolerances are kept while achieving smooth, long-lasting surfaces."
+            },
+            "media": "uploads/silindir.mp4"
+        },
+        {
+            "active": true,
+            "title": {
+                "tr": "Delik taşlama",
+                "en": "Internal grinding"
+            },
+            "capacity": {
+                "tr": "Ø 3 – 650 mm, 1100 mm boy",
+                "en": "Ø 3 – 650 mm, 1100 mm length"
+            },
+            "text": {
+                "tr": "3 – 650 mm çap ve 1100 mm boya kadar delik ve alın taşlama işlemleri, otomatik paso verilerek seri veya manuel olarak yapılmaktadır.\n\nKonik taşlama uygulamalarıyla özel ölçü ve geometrilere sahip parçalar da hassas şekilde işlenmektedir.",
+                "en": "Bore and face grinding from 3 to 650 mm diameter and up to 1100 mm length, with automatic infeed, in series or manually.\n\nTaper grinding lets us machine parts with special dimensions and geometries precisely."
+            },
+            "media": "uploads/fotot2.png"
+        },
+        {
+            "active": true,
+            "title": {
+                "tr": "Satıh taşlama",
+                "en": "Surface grinding"
+            },
+            "capacity": {
+                "tr": "Isıl işlem sonrası düzlem",
+                "en": "Flatness after heat treatment"
+            },
+            "text": {
+                "tr": "Freze ve planya işlemlerinden sonra ısıl işlem görmüş malzemelerin çarpıklığını gidermek ve yüzey kalitesini artırmak amacıyla uygulanır.\n\nDüzgün yüzey gereken kalıp, aparat ve makine parçalarında yüksek doğruluk sağlar.",
+                "en": "Applied to heat-treated parts after milling and planing to remove distortion and improve surface quality.\n\nIt delivers high accuracy on dies, fixtures and machine parts that need flat surfaces."
+            },
+            "media": "uploads/video-3.mp4"
+        },
+        {
+            "active": true,
+            "title": {
+                "tr": "Puntasız taşlama",
+                "en": "Centerless grinding"
+            },
+            "capacity": {
+                "tr": "Ø 1 – 60 mm, 1000 mm boy",
+                "en": "Ø 1 – 60 mm, 1000 mm length"
+            },
+            "text": {
+                "tr": "Puntasız taşlama; otomotiv, makine parçaları, uçak ve takım imalatı başta olmak üzere metal endüstrisinde yaygın olarak kullanılır.\n\n1 – 60 mm çap ve 1000 mm boya kadar geçme ve dalma taşlama işlemleri yüksek hassasiyetle uygulanmaktadır.",
+                "en": "Centerless grinding is widely used across the metal industry, especially in automotive, machine parts, aerospace and tool manufacturing.\n\nThrough-feed and plunge grinding from 1 to 60 mm diameter and up to 1000 mm length, with high precision."
+            },
+            "media": "uploads/fotot4.png"
+        }
+    ]
+}

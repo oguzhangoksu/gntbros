@@ -1,0 +1,169 @@
+{
+    "about": {
+        "title": {
+            "tr": "Biz kimiz",
+            "en": "Who we are"
+        },
+        "lead": {
+            "tr": "GNT Broş, Genetik Taşlama Kalıp Makina'nın broş ve hassas taşlama markasıdır.",
+            "en": "GNT Broş is the broaching and precision grinding brand of Genetik Taşlama Kalıp Makina."
+        },
+        "text": {
+            "tr": "Genetik Taşlama Kalıp Makina; endüstriyel taşlama, bileme, broş imalatı ve makine parçası üretimi alanlarında faaliyet göstermektedir. Sektörde edindiğimiz bilgi ve tecrübeyi sürekli gelişen teknolojiyle birleştirerek müşterilerimize hassas ve kaliteli çözümler sunuyoruz.\n\nSilindirik, yüzey, puntasız ve özel taşlama işlemlerinde modern makine parkurumuz ve deneyimli kadromuzla yüksek yüzey kalitesi ve ölçü hassasiyeti sağlıyoruz. Her projede kalite standartlarına uygun, güvenilir ve sürdürülebilir üretimi esas alıyoruz.\n\nMüşteri memnuniyetini ön planda tutan yaklaşımımızla otomotiv, makine, kalıp ve metal sanayisine değer katmaya devam ediyoruz.",
+            "en": "Genetik Taşlama Kalıp Makina works in industrial grinding, sharpening, broach manufacturing and machine part production. We combine our experience in the field with continuously developing technology to offer our customers precise, high-quality solutions.\n\nWith our modern machine park and experienced staff, we achieve high surface quality and dimensional accuracy in cylindrical, surface, centerless and special grinding. Every project is built on reliable, sustainable production that meets quality standards.\n\nWith a customer-first approach, we keep adding value to the automotive, machinery, die and metal industries."
+        },
+        "image": "uploads/taslama.jpg"
+    },
+    "vision": {
+        "vision_title": {
+            "tr": "Vizyonumuz",
+            "en": "Our vision"
+        },
+        "vision_text": {
+            "tr": "Endüstriyel taşlama, bileme ve hassas imalat alanında teknolojiyi yakından takip eden, kalite ve güvenilirliğiyle sektörde tercih edilen öncü bir firma olmak.",
+            "en": "To be a leading company in industrial grinding, sharpening and precision manufacturing that follows technology closely and is preferred for its quality and reliability."
+        },
+        "mission_title": {
+            "tr": "Misyonumuz",
+            "en": "Our mission"
+        },
+        "mission_text": {
+            "tr": "Deneyimli kadromuz ve modern makine parkurumuzla, yüksek hassasiyet gerektiren taşlama ve imalat çözümlerini müşteri beklentilerine uygun şekilde sunmak.",
+            "en": "To deliver grinding and manufacturing solutions that demand high precision, in line with customer expectations, through our experienced team and modern machine park."
+        },
+        "info": [
+            {
+                "title": {
+                    "tr": "Silindirik taşlama nedir?",
+                    "en": "What is cylindrical grinding?"
+                },
+                "text": {
+                    "tr": "Silindirik taşlama; her türlü silindirik ve açılı malzemenin çap ve alın yüzeylerinde yüksek hassasiyet ve yüzey kalitesi elde etmek amacıyla uygulanan bir taşlama işlemidir.",
+                    "en": "Cylindrical grinding is a process applied to the diameter and face surfaces of cylindrical and angled parts to achieve high precision and surface quality."
+                }
+            },
+            {
+                "title": {
+                    "tr": "Silindirik taşlama nerelerde kullanılır?",
+                    "en": "Where is cylindrical grinding used?"
+                },
+                "text": {
+                    "tr": "Otomotiv, makine, kalıp, savunma ve takım imalatı başta olmak üzere ölçü hassasiyeti ve yüzey kalitesi gerektiren tüm metal parça üretimlerinde yaygın olarak kullanılır.",
+                    "en": "It is widely used wherever metal parts need dimensional accuracy and surface quality – especially in automotive, machinery, die, defense and tool manufacturing."
+                }
+            }
+        ],
+        "image": "uploads/117.webp",
+        "uses": [
+            {
+                "name": {
+                    "tr": "Otomotiv sanayi parçaları",
+                    "en": "Automotive parts"
+                }
+            },
+            {
+                "name": {
+                    "tr": "Makine ve kalıp elemanları",
+                    "en": "Machine and die components"
+                }
+            },
+            {
+                "name": {
+                    "tr": "Mil ve şaft üretimi",
+                    "en": "Shafts and spindles"
+                }
+            },
+            {
+                "name": {
+                    "tr": "Uçak ve savunma sanayi",
+                    "en": "Aerospace and defense"
+                }
+            },
+            {
+                "name": {
+                    "tr": "Takım ve aparat imalatı",
+                    "en": "Tooling and fixtures"
+                }
+            },
+            {
+                "name": {
+                    "tr": "Hassas tolerans gerektiren parçalar",
+                    "en": "Tight-tolerance parts"
+                }
+            }
+        ],
+        "features_title": {
+            "tr": "Silindirik taşlamanın özellikleri",
+            "en": "Features of cylindrical grinding"
+        },
+        "features": [
+            {
+                "title": {
+                    "tr": "Yüksek hassasiyet",
+                    "en": "High precision"
+                },
+                "points": {
+                    "tr": "Mikron seviyesinde ölçü toleransı sağlar.\nYüzey pürüzlülüğünü en aza indirir.\nTekrarlanabilir kalite sunar.",
+                    "en": "Micron-level tolerances.\nMinimal surface roughness.\nRepeatable quality."
+                }
+            },
+            {
+                "title": {
+                    "tr": "Geniş uygulama alanı",
+                    "en": "Wide working range"
+                },
+                "points": {
+                    "tr": "3 – 650 mm çap aralığında taşlama yapılabilir.\n1100 mm boya kadar işleme imkânı sunar.",
+                    "en": "Grinding from 3 to 650 mm diameter.\nParts up to 1100 mm long."
+                }
+            },
+            {
+                "title": {
+                    "tr": "Esnek üretim",
+                    "en": "Flexible production"
+                },
+                "points": {
+                    "tr": "Seri ve manuel taşlama seçenekleri mevcuttur.\nGeçme, dalma ve konik taşlama işlemleri uygulanabilir.",
+                    "en": "Series and manual grinding.\nThrough-feed, plunge and taper grinding."
+                }
+            }
+        ]
+    },
+    "policy": {
+        "title": {
+            "tr": "Kuruluş politikamız",
+            "en": "Our policy"
+        },
+        "text": {
+            "tr": "Kurulduğumuz günden bu yana endüstriyel taşlama, bileme ve hassas imalat alanlarında kaliteyi ve güvenilirliği temel ilke edindik.\n\nTüm üretim süreçlerimizde müşteri beklentilerini doğru analiz ederek zamanında teslimat, ölçü hassasiyeti ve yüksek yüzey kalitesi sunmayı hedefliyoruz. Sürekli gelişimi benimseyen yapımızla teknolojik yenilikleri yakından takip ediyor, üretim altyapımızı düzenli olarak güçlendiriyoruz.\n\nGücümüzü alanında deneyimli personelimizden ve işine olan bağlılığından alıyor; kalite standartlarına uygun, sürdürülebilir ve güvenilir çözümlerle sektöre değer katmaya devam ediyoruz.",
+            "en": "Since our founding, quality and reliability have been our core principles in industrial grinding, sharpening and precision manufacturing.\n\nIn every production process we analyse customer expectations carefully and aim for on-time delivery, dimensional accuracy and high surface quality. Committed to continuous improvement, we follow technological developments closely and regularly strengthen our production capacity.\n\nOur strength comes from our experienced, dedicated staff. We keep adding value to the industry with sustainable, reliable solutions that meet quality standards."
+        },
+        "principles": [
+            {
+                "name": {
+                    "tr": "Zamanında teslimat",
+                    "en": "On-time delivery"
+                }
+            },
+            {
+                "name": {
+                    "tr": "Ölçü hassasiyeti",
+                    "en": "Dimensional accuracy"
+                }
+            },
+            {
+                "name": {
+                    "tr": "Yüksek yüzey kalitesi",
+                    "en": "High surface quality"
+                }
+            },
+            {
+                "name": {
+                    "tr": "Sürekli gelişim",
+                    "en": "Continuous improvement"
+                }
+            }
+        ],
+        "image": "uploads/engineer.jpg"
+    }
+}
